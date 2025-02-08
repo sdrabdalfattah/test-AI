@@ -18,7 +18,7 @@ send.onclick = async function() {
 
  
 
-    let token_API = "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";
+   let token_API = "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";
 
     let body = {
         "model": "gpt-4o-mini",
